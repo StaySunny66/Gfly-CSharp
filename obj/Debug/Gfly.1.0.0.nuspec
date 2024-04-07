@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Gfly</id>
+    <version>1.0.0</version>
+    <authors>Gfly</authors>
+    <description>Package Description</description>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net8.0-windows7.0">
+        <dependency id="OpenTK" version="4.8.2" exclude="Build,Analyzers" />
+        <dependency id="OpenTK.GLControl" version="3.3.3" exclude="Build,Analyzers" />
+        <dependency id="SharpDX.XInput" version="4.2.0" exclude="Build,Analyzers" />
+        <dependency id="System.IO.Ports" version="8.0.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net8.0-windows7.0">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WindowsForms" />
+      </group>
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="C:\Users\gxyos\source\repos\Gfly\bin\Debug\net8.0-windows\Gfly.runtimeconfig.json" target="lib\net8.0-windows7.0\Gfly.runtimeconfig.json" />
+    <file src="C:\Users\gxyos\source\repos\Gfly\bin\Debug\net8.0-windows\Gfly.dll" target="lib\net8.0-windows7.0\Gfly.dll" />
+  </files>
+</package>
