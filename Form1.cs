@@ -529,8 +529,8 @@ namespace Gfly
                         if (YMZ < 0) { YMZ = 0; }
                         if (YMZ >= 255) { YMZ = 254; }
 
-                        FYJ = (short)((30.0) * (state.Gamepad.RightThumbY / 32768.0));
-                        FGJ = (short)((30.0) * (state.Gamepad.RightThumbX / 32768.0));
+                        FYJ = (short)((10.0) * (state.Gamepad.RightThumbY / 32768.0));
+                        FGJ = (short)((10.0) * (state.Gamepad.RightThumbX / 32768.0));
 
                     }
 

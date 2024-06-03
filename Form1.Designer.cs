@@ -241,7 +241,7 @@ namespace Gfly
             // comboBox2
             // 
             comboBox2.FormattingEnabled = true;
-            comboBox2.Items.AddRange(new object[] { "4800", "9600", "115200" });
+            comboBox2.Items.AddRange(new object[] { "4800", "9600", "115200", "230400" });
             comboBox2.Location = new Point(66, 56);
             comboBox2.Name = "comboBox2";
             comboBox2.Size = new Size(151, 28);

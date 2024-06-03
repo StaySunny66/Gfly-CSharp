@@ -43,3 +43,4 @@ C:\Users\gxyos\source\repos\Gfly\obj\Debug\net8.0-windows\refint\Gfly.dll
 C:\Users\gxyos\source\repos\Gfly\obj\Debug\net8.0-windows\Gfly.pdb
 C:\Users\gxyos\source\repos\Gfly\obj\Debug\net8.0-windows\Gfly.genruntimeconfig.cache
 C:\Users\gxyos\source\repos\Gfly\obj\Debug\net8.0-windows\ref\Gfly.dll
+C:\Users\gxyos\source\repos\Gfly\obj\Debug\net8.0-windows\Gfly.sourcelink.json
